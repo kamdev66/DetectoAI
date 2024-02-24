@@ -1,3 +1,6 @@
+DEPLOYED LINK:- https://detecto-ai.vercel.app/
+
+
 npm run dev 
 npx shadcn-ui@latest init
 npx shadcn-ui@latest add button sonner
